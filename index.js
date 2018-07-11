@@ -3,7 +3,7 @@ Variables defined in the test suite:
 - oldID
 - currentAge
 
-
+var newID = 
 
 You should NOT try to redefine any of the above variables.
 */
